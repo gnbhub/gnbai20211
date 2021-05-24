@@ -12,6 +12,6 @@
 | 2주차 (3.29) | 함수 문법, OOP 개념, python 클래스 문법 | [week2-dohun.ipynb](https://github.com/gnbhub/gnbai20211/blob/master/lecturenote/week2-dohun.ipynb) |
 | 3주차 (4.5) | 행렬 기본 연산, numpy, pandas, matplotlib 사용법 | [week3-dohun.ipynb](https://github.com/gnbhub/gnbai20211/blob/master/lecturenote/week3-dohun.ipynb) |
 | 4주차 (5.10) | 딥러닝 기본 개념 정리, Linear Regression | [week4-dohun.ipynb](https://github.com/gnbhub/gnbai20211/blob/master/lecturenote/week4-dohun.ipynb) |
-| 5주차 (5.17) | 4주차 이론 복습, Multi-Layer Perceptron 이론 |
-| 6주차 (5.24) | Multi-Layer Perceptron 코딩 실습 |
-| 7주차 (5.31) | Regularization, Optimizers |
+| 5주차 (5.17) | 4주차 이론 복습, Multi-Layer Perceptron 개념 |
+| 6주차 (5.24) | Multi-Layer Perceptron 이론 및 수식 유도 |
+| 7주차 (5.31) | Multi-Layer Perceptron 코딩 실습 |
